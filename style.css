@@ -6,11 +6,6 @@
   font-family: 'Segoe UI', sans-serif;
 }
 
-h2 {
-  color:red;
-  font-weight:bold;
-}
-
 /* Fullscreen Background */
 body {
   height: 100vh;
@@ -144,6 +139,7 @@ button:hover {
   color: #fff;
   text-decoration: underline;
 }
+
 
 
 
