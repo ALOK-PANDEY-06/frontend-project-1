@@ -5,7 +5,8 @@
   box-sizing: border-box;
   font-family: 'Segoe UI', sans-serif;
 }
-h2{
+
+h2 {
   color:#00bfff;
   font-weight:bold;
 }
@@ -143,4 +144,5 @@ button:hover {
   color: #fff;
   text-decoration: underline;
 }
+
 
