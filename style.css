@@ -5,6 +5,10 @@
   box-sizing: border-box;
   font-family: 'Segoe UI', sans-serif;
 }
+h2{
+  color:#00bfff;
+  font-weight:bold;
+}
 
 /* Fullscreen Background */
 body {
@@ -139,3 +143,4 @@ button:hover {
   color: #fff;
   text-decoration: underline;
 }
+
