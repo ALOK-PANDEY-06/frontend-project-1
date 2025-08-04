@@ -7,7 +7,7 @@
 }
 
 h2 {
-  color:#00bfff;
+  color:red;
   font-weight:bold;
 }
 
@@ -144,5 +144,6 @@ button:hover {
   color: #fff;
   text-decoration: underline;
 }
+
 
 
